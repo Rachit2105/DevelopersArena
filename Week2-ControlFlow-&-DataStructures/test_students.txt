@@ -1,0 +1,37 @@
+STUDENT GRADE CALCULATOR - SAMPLE INPUT CASES
+
+----------------------------------------
+Test Case 1
+----------------------------------------
+Enter total number of students: 2
+
+Student 1 Name: Rohan
+Math: 95
+Science: 90
+English: 93
+
+Student 2 Name: Anjali
+Math: 75
+Science: 80
+English: 70
+
+
+----------------------------------------
+Test Case 2
+----------------------------------------
+Enter total number of students: 3
+
+Student 1 Name: Amit
+Math: 60
+Science: 65
+English: 70
+
+Student 2 Name: Priya
+Math: 88
+Science: 92
+English: 85
+
+Student 3 Name: Karan
+Math: 40
+Science: 55
+English: 50

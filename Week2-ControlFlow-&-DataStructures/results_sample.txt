@@ -1,0 +1,23 @@
+STUDENT GRADE CALCULATOR - EXPECTED OUTPUT RESULTS
+
+----------------------------------------
+Result for Test Case 1
+----------------------------------------
+Rohan   -> Average: 92.7  Grade: A
+Anjali  -> Average: 75.0  Grade: C
+
+Class Average: 83.8
+Highest Average: 92.7 (Rohan)
+Lowest Average: 75.0 (Anjali)
+
+
+----------------------------------------
+Result for Test Case 2
+----------------------------------------
+Amit   -> Average: 65.0  Grade: D
+Priya  -> Average: 88.3  Grade: B
+Karan  -> Average: 48.3  Grade: F
+
+Class Average: 67.2
+Highest Average: 88.3 (Priya)
+Lowest Average: 48.3 (Karan)
