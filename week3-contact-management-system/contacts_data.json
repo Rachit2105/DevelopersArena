@@ -1,0 +1,42 @@
+{
+    "Rohan Sharma": {
+        "phone": "9876543210",
+        "email": "rohan.sharma@email.com",
+        "address": "Delhi, India",
+        "category": "Friends",
+        "created_on": "2026-01-20 14:30:12",
+        "updated_on": "2026-01-20 14:30:12"
+    },
+    "Anjali Mehta": {
+        "phone": "9123456780",
+        "email": "anjali.mehta@email.com",
+        "address": "Mumbai, India",
+        "category": "Work",
+        "created_on": "2026-01-21 10:15:45",
+        "updated_on": "2026-01-21 10:15:45"
+    },
+    "Amit Verma": {
+        "phone": "919876543210",
+        "email": "amit.verma@email.com",
+        "address": "Bangalore, India",
+        "category": "Family",
+        "created_on": "2026-01-22 18:05:22",
+        "updated_on": "2026-01-22 18:05:22"
+    },
+    "Priya Singh": {
+        "phone": "9988776655",
+        "email": "priya.singh@email.com",
+        "address": "Pune, India",
+        "category": "Other",
+        "created_on": "2026-01-23 09:40:10",
+        "updated_on": "2026-01-23 09:40:10"
+    },
+    "Karan Malhotra": {
+        "phone": "918888777766",
+        "email": null,
+        "address": null,
+        "category": "Friends",
+        "created_on": "2026-01-24 16:22:30",
+        "updated_on": "2026-01-24 16:22:30"
+    }
+}
